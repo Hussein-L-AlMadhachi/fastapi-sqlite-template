@@ -1,0 +1,13 @@
+.raggie
+data
+.env
+
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+*.db
+*.db-wal
+*.db-shm
+*.migrations.json*
